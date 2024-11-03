@@ -25,7 +25,7 @@ Ensure you have the following packages installed:
   - `utilities.py`: Contains helper functions. **Note:** This is modified a bit from the handed out version to support using hooks, as did the tasks cronologically, and didn't want to restructure my model after having a working implementation.
 
 ## Running the Code
-The script allows you to run different parts of the NLP models. Make sure to navigate to the `PA2_code` folder before running `main.py`. Use the following command line arguments to control which part of the project to run. 
+The script allows you to run different parts of the NLP models. Make sure to navigate to the root folder before running `main.py`. Use the following command line arguments to control which part of the project to run. 
 
 ### Arguments
 - **Model Selection**:
